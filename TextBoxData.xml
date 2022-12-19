@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Automation>
+	<TextBox>
+		<fName>Daniyal Raza</fName>
+		<email>daniyal7171@gmail.com</email>
+		<address>Lahore</address>
+		<permAddress>Multan</permAddress>
+	</TextBox>
+</Automation>
